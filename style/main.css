@@ -30,9 +30,16 @@ header .logo{
     margin-left: 5px;;
 }
 
+section h2{
+    padding: 6px;
+    background: #c83838;
+    color: #000000;
+    font-family:'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif ;
+}
+
 header nav a{
     text-decoration: none;
-    color: #AAA;
+    color: #060606;
     margin-right: 10px;
 }
 
